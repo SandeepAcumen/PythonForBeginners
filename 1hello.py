@@ -1,0 +1,8 @@
+print("sandeep")
+print('Kumar')
+print(1)
+print('@')
+print("hello world")
+print('o----')
+print(' ||||')
+print('*'  * 10)
